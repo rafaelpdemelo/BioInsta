@@ -1,18 +1,8 @@
-# InstaLink 👨‍💻
-A project for an Instagram link management site (like Linkgallery) </br>
-Click on the image to see the website =)
+# Projeto InstaLink 👨‍💻
+Projeto de links para instagram usando HTML e CSS! 
+Clique aqui para olhar o projeto funcionando -> https://rafaelpdemelo.vercel.app/
 
+## Agradecimentos
 
+[**giovannamoeller**](https://github.com/giovannamoeller) pela ideia e código base (=
 
-## Usage
-
-Clone this repository and change the information contained in the `index.html` file.
-
-If you want, you can change the style of your site too! The entire style is maintained in the standard `style.css` file
-
-## Thanks for
-
- [**giovannamoeller**](https://github.com/giovannamoeller) for the idea and code base!! (=
-
-## License
-With the open source code and MIT license, I just ask you to give the credits for this repository at the end of your README.md (Like me in the "Thanks for" section)
