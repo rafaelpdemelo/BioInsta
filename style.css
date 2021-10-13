@@ -21,7 +21,7 @@ body {
 }
 
 .titulo-sep{
-    color: #6C3BED;
+    color: white;
     margin-top: 60px;
     margin-bottom: 10px;
     display: flex;
@@ -70,11 +70,12 @@ ul {
 }
 
 section ul {
-    margin-top: 1rem;
+    margin-top: 4rem;
     display: grid;
     justify-items: center;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 4rem;
+    
 }
 
 section ul h2 {
@@ -111,9 +112,8 @@ section ul li:hover{
 }
 
 section ul li {
-    background-color: blue;
-        width: 20rem;
-        height: 6rem;
+    
+        
         max-width: 40rem;
         min-height: 10px;
     border-radius: 0.7rem;
@@ -206,7 +206,7 @@ span.new {
 
     section ul {
         gap: 1.5rem;
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(1, 1fr);
     }
 
     span.new {
@@ -239,3 +239,97 @@ span.new {
     object-fit: fill;
     filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(288deg) brightness(102%) contrast(102%);
 }   
+
+
+
+  
+.container1 {
+  
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  
+  .container2{
+    width: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    
+    background: #e2610b;
+    
+    box-sizing: border-box;
+  }
+  
+  .container10{
+    margin-top: 40px;
+    display: flex;
+    width: 95%;
+    justify-content: space-between;
+    border-radius: 5px;
+    align-items: center;
+    background: #202024;
+    margin-right: 100px;
+    position: relative;
+    right: -10px;
+  }
+  .h3Area{
+    font-family: "Poppins";
+    margin-left: 50px;
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 700;
+    color: #FA6B05;
+  }
+  
+
+
+  .container120 {
+  
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  
+  .container220{
+    width: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    
+    background: #e2610b;
+    
+    box-sizing: border-box;
+  }
+  
+  .container20{
+    margin-top: 64px;
+    display: flex;
+    width: 120%;
+    justify-content: space-between;
+    border-radius: 5px;
+    align-items: center;
+    background: #202024;
+  }
+
+  .footerBeneficios {
+    padding-top: 50px;
+    margin-left: 120px;
+    font-size: 10px;
+     display:flex;
+      font-family: "Poppins";
+    align-items: center;
+    
+   color: #04d361;
+    
+  }
