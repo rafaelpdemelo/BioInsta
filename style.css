@@ -335,18 +335,6 @@ span.new {
   }
 
 
-  @media screen and (max-width: 1440px) {
-    .footerBeneficios {
-        padding-top: 50px;
-        margin-left: 400px;
-        font-size: 10px;
-         display:flex;
-          font-family: "Poppins";
-        align-items: center;
-        
-       color: #04d361;
-        
-      }
-  }
+ 
 
  
